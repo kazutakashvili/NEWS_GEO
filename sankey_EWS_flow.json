@@ -1,0 +1,358 @@
+{
+    "data": [
+        {
+            "type": "sankey",
+            "domain": {
+                "x": [
+                    0,
+                    1
+                ],
+                "y": [
+                    0,
+                    1
+                ]
+            },
+            "orientation": "h",
+            "valueformat": ".0f",
+            "valuesuffix": "TWh",
+            "node": {
+                "pad": 15,
+                "thickness": 15,
+                "line": {
+                    "color": "black",
+                    "width": 0.5
+                },
+                "label": [
+                    "1. MoIA Forensic Department - Chemital Analysis Laboraotry",
+                    "2. MoIA Forensic Department - Drug Analysis Laboraotry",
+                    "3. RS Custom Department",
+                    "4. Samkharauli National Forensics Bureau",
+                    "5. Ambulance (112)",
+                    "6. General Hospitals ER",
+                    "7. MHPA - Inpatient Units",
+                    "8. Private Drug Treatment Clinics - Inpatient Units",
+                    "9. St. Michael Toxicological Department",
+                    "10. Mandala",
+                    "11. GHRN - Low-threshold Units",
+                    "12. Medical Doctors",
+                    "13. DATA ABOUT SUBSTANCES",
+                    "14. BORDER CROSSING",
+                    "15. INTOXICATION/OVERDOSES RELATED DEATH",
+                    "16. AUCTE INTOXICATION (NONLETHAL)",
+                    "17. DRUG-CHECKING",
+                    "18. VERBAL INFORMATION",
+                    "19. Commission on NPS",
+                    "20. Coordinating Center",
+                    "21. Advisory Group",
+                    "22. Early Warning Network",
+                    "23. MoIA - Law Department",
+                    "24. MoIA - Analitical Department",
+                    "25. MoIA - CCPD",
+                    "26. MoIA - Forensic Department",
+                    "27. MoH - Political Department",
+                    "28. MoH - Regulation Agency",
+                    "29. MoH - MHPA",
+                    "30. MoH - NCDC",
+                    "31. Revenue Service - Custom Department",
+                    "32. Georgian Harm Reduction Network",
+
+
+                ],
+                "color": [
+                    "rgba(31, 119, 180, 0.8)",
+                    "rgba(255, 127, 14, 0.8)",
+                    "rgba(44, 160, 44, 0.8)",
+                    "rgba(214, 39, 40, 0.8)",
+                    "rgba(148, 103, 189, 0.8)",
+                    "rgba(140, 86, 75, 0.8)",
+                    "rgba(227, 119, 194, 0.8)",
+                    "rgba(127, 127, 127, 0.8)",
+                    "rgba(188, 189, 34, 0.8)",
+                    "rgba(23, 190, 207, 0.8)",
+                    "rgba(31, 119, 180, 0.8)",
+                    "rgba(255, 127, 14, 0.8)",
+                    "rgba(44, 160, 44, 0.8)",
+                    "rgba(214, 39, 40, 0.8)",
+                    "rgba(148, 103, 189, 0.8)",
+                    "rgba(140, 86, 75, 0.8)",
+                    "rgba(227, 119, 194, 0.8)",
+                    "rgba(127, 127, 127, 0.8)",
+                    "rgba(188, 189, 34, 0.8)",
+                    "magenta",
+                    "rgba(227, 119, 194, 0.8)",
+                    "rgba(127, 127, 127, 0.8)",
+                    "rgba(188, 189, 34, 0.8)",
+                    "rgba(23, 190, 207, 0.8)",
+                    "rgba(31, 119, 180, 0.8)",
+                    "rgba(255, 127, 14, 0.8)",
+                    "rgba(44, 160, 44, 0.8)",
+                    "rgba(214, 39, 40, 0.8)",
+                    "rgba(148, 103, 189, 0.8)",
+                    "rgba(140, 86, 75, 0.8)",
+                    "rgba(227, 119, 194, 0.8)",
+                    "rgba(127, 127, 127, 0.8)"]
+            },
+            "link": {
+                "source": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    22,
+                    21,
+                    20,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19,
+                    19
+                ],
+                "target": [
+                    13,
+                    13,
+                    14,
+                    15,
+                    16,
+                    16,
+                    16,
+                    16,
+                    16,
+                    17,
+                    18,
+                    18,
+                    22,
+                    22,
+                    22,
+                    22,
+                    22,
+                    22,
+                    21,
+                    20,
+                    19,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28,
+                    29,
+                    30,
+                    31,
+                    32
+                ],
+                "value": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "color": [
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                    "rgba(0,0,96,0.2)",
+                ],
+                "label": [
+                    "stream 1",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "stream 1",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    "stream 1"
+                ]
+            }
+        }],
+    "layout": {
+        "title": {"text": "Energy forecast for 2050, UK — Department of Energy & Climate Change<br>Imperfect copy of <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock's example</a><br>with numerous <a href='https://plotly.com/javascript/'>Plotly</a> features"},
+        "width": 1118,
+        "height": 772,
+        "font": {
+            "size": 10
+        },
+        "updatemenus": [
+            {
+                "y": 1,
+                "buttons": [
+                    {
+                        "label": "Light",
+                        "method": "relayout",
+                        "args": [ "paper_bgcolor", "white" ]
+                    },
+                    {
+                        "label": "Dark",
+                        "method": "relayout",
+                        "args": [ "paper_bgcolor", "black"]
+                    }
+                ]
+            },
+            {
+                "y": 0.9,
+                "buttons": [
+                    {
+                        "label": "Thick",
+                        "method": "restyle",
+                        "args": [ "node.thickness", 15 ]
+                    },
+                    {
+                        "label": "Thin",
+                        "method": "restyle",
+                        "args": [ "node.thickness", 8]
+                    }
+                ]
+            },
+            {
+                "y": 0.8,
+                "buttons": [
+                    {
+                        "label": "Small gap",
+                        "method": "restyle",
+                        "args": [ "node.pad", 15 ]
+                    },
+                    {
+                        "label": "Large gap",
+                        "method": "restyle",
+                        "args": [ "node.pad", 20]
+                    }
+                ]
+            },
+            {
+                "y": 0.7,
+                "buttons": [
+                    {
+                        "label": "Snap",
+                        "method": "restyle",
+                        "args": [ "arrangement", "snap" ]
+                    },
+                    {
+                        "label": "Perpendicular",
+                        "method": "restyle",
+                        "args": [ "arrangement", "perpendicular"]
+                    },
+                    {
+                        "label": "Freeform",
+                        "method": "restyle",
+                        "args": [ "arrangement", "freeform"]
+                    },
+                    {
+                        "label": "Fixed",
+                        "method": "restyle",
+                        "args": [ "arrangement", "fixed"]
+                    }
+                ]
+            },
+            {
+                "y": 0.6,
+                "buttons": [
+                    {
+                        "label": "Horizontal",
+                        "method": "restyle",
+                        "args": [ "orientation", "h" ]
+                    },
+                    {
+                        "label": "Vertical",
+                        "method": "restyle",
+                        "args": [ "orientation", "v"]
+                    }
+                ]
+            }
+        ]
+    }
+}
